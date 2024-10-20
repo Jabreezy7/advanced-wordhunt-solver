@@ -22,7 +22,7 @@ java CrosswordTest dict8.txt test3a.txt
 - Java 11 or higher
 - A text file containing the puzzle configuration
 
-# Implementation Process
+# Implementation Process and Project Analyzation
 
 ## Plan of Attack
 Upon the intital inspection of Assignement 1, I quickly noticed that this would grow to become a very complex assignment with many different moving parts and restrictions. I realized that if I were to solve this assignement in an orderely fashion, I would need to decompose the task of creating a crossword-filling algorithim into many smaller tasks that in the end meet the goal of solving the puzzle. 
